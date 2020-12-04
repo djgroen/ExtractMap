@@ -1,0 +1,1 @@
+The jupyter notebook "Location Graph Extraction" contains all instructions to set up and use (one version of) the location graph extraction code. The files "example.cpp" and "pruning.py" are required for setup and execution, respectively.
